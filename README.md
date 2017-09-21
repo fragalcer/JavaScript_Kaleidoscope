@@ -1,9 +1,8 @@
-# COMP1720 lab 5 template
 
-Here's the template for your lab 5 kaleidoscope. See the lab 5 page for
-more information:
 
-<https://cs.anu.edu.au/courses/comp1720/labs/05-kaleidoscope/>
+TO RUN THIS CODE SIMPLE GO TO:
+
+https://cdn.rawgit.com/fragalcer/JavaScript_Kaleidoscope/ddb26ae9/index.html
 
 ## Use
 

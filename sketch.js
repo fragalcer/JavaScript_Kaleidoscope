@@ -26,6 +26,19 @@ function draw() {
         pop();
     }
 
+    for (var x = 1; x < 1000; x = x+1) {
+        drawShape(x, x);
+    }
 
+
+
+}
+
+function drawShape(x, y) {
+    push();
+    // translate(width/2, height/2);
+    rotate(x1);
+    rect(x, y, 50, 50);
+    pop();
 
 }
